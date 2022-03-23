@@ -61,7 +61,8 @@ In Java, we use abstract class and interface to achieve abstraction.
 
 Encapsulation:
 
-Binding (or wrapping) code and data together into a single unit are known as encapsulation. For example, a capsule, it is wrapped with different medicines.
+Binding (or wrapping) code and data together into a single unit are known as encapsulation.
+For example, a capsule, it is wrapped with different medicines.
 
 A java class is the example of encapsulation. Java bean is the fully encapsulated class because all the data members are private here.
 
@@ -99,3 +100,36 @@ Aggregation is a way to achieve Association. Aggregation represents the relation
 
 Composition
 The composition is also a way to achieve Association. The composition represents the relationship where one object contains other objects as a part of its state. There is a strong relationship between the containing object and the dependent object. It is the state where containing objects do not have an independent existence. If you delete the parent object, all the child objects will be deleted automatically.
+
+
+
+inheritance:
+reusability mainly used.
+*.superclass
+*.subclasss
+
+abstraction:
+* implementation is acheived
+* abstract methods
+* interface
+
+Encapsulation:
+*.security
+
+package,getter,setter
+
+polymorphism:
+adapability
+one thing in different ways
+method overloading and method overriding
+
+ex: 
+1.wheel
+2.break
+3.seat
+
+
+
+
+
+
