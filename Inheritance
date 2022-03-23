@@ -1,0 +1,13 @@
+one object of class acquires all the properites and behaviors of a parent class object 
+
+IS-A Relationship
+
+advantage:
+code reusablity
+method overriding
+
+type of inheritance
+single
+multilevel
+multiple
+heirachical 
